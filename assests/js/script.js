@@ -53,7 +53,7 @@ function(){
 
 // <!-- typed js effect starts -->
     var typed = new Typed(".typing-text", {
-        strings: ["Angular Developer",  "Website Developer", "NextJS Developer"],
+        strings: ["Frontend Developer",  "Angular Developer"],
         loop: true,
         typeSpeed: 35,
 		backSpeed: 15,
